@@ -1,2 +1,2 @@
-# PrepcourseHenry
-este es un repositorio de prueba
+Este proyecto es una prueba de este repositorio y cómo clonarlo.
+
